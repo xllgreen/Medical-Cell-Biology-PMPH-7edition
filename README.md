@@ -11,7 +11,7 @@
 > 基于人民卫生出版社《医学细胞生物学》第7版的技能集 — 146 项细胞生物学核心技能
 <br>
 <br>
-<img src="/assets/CellBiology.png" width="260px">
+<img src="/assets/Medical-Cell-Biology-PMPH-7edition.png" width="260px">
 <br>
 
 何必苦苦读一本书<br>
